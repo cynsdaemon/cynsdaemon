@@ -1,7 +1,3 @@
-# Hey Cyn Writes Code in Pajamas
-
-A home to store all of my weird code projects. 
-
 Hello there. I’m Cynthia, a front-end web developer focused on building and maintaining 
 scalable, responsive, and accessible web experiences using some of the following technologies and frameworks: 
 
