@@ -1,4 +1,4 @@
-# Project Name
+# Hey Cyn Writes Code in Pajamas
 
 A home to store all of my weird code projects. 
 
@@ -20,10 +20,10 @@ the wee hours of the [morning in pajamas](https://heycynwritescodeinpjs.com).
 
 
 Want to collaborate on a project? Wonderful! 
-Let’s [chat](mailto:workwithme@heycynwrites.com)about how 
+Let’s [chat](mailto:workwithme@heycynwrites.com) about how 
 I can help you take the next step toward your project's goals.
           
 
 For **project feedback and suggestions**, feel free to [open an issue on Github](https://github.com/issues) in the repo for that *particular* project. 
 
-This project is designed and built with love :heart:, lots of coffee :coffee:, and an awesome playlist :musical_note:. Copyright &copy; 2023-2025 [@heycynwrites](https://heycynwrites.com).
+All projects are designed and built with love :heart:, lots of coffee :coffee:, and an awesome playlist :musical_note:. Copyright &copy; 2023-2025 [@heycynwrites](https://heycynwrites.com).
