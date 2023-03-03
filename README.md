@@ -24,6 +24,6 @@ Let’s [chat](mailto:workwithme@heycynwrites.com) about how
 I can help you take the next step toward your project's goals.
           
 
-For **project feedback and suggestions**, feel free to [open an issue on Github](https://github.com/issues) in the repo for that *particular* project. 
+For **project feedback and suggestions**, feel free to [open an issue on Github](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) in the repo for that *particular* project. 
 
 All projects are designed and built with love :heart:, lots of coffee :coffee:, and an awesome playlist :musical_note:. Copyright &copy; 2023-2025 [@heycynwrites](https://heycynwrites.com).
