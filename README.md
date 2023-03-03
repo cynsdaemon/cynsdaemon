@@ -20,7 +20,7 @@ the wee hours of the [morning in pajamas](https://heycynwritescodeinpjs.com).
 
 
 Want to collaborate on a project? Wonderful! 
-Let’s [chat](mailto:workwithme@heycynwrites.com) about how 
+Let’s [chat](https://heycynwrites.com/contact-me/) about how 
 I can help you take the next step toward your project's goals.
           
 
