@@ -1,24 +1,34 @@
-<!-- HEADER BLOCK -->
-<div align="center" style="padding: 24px; background:#FFF8F2; border-radius: 12px; border: 3px solid #398378;">
+# 🌿Hey Cyn Writes
 
-<h1 style="color:#398378; margin-bottom:0;">Cynthia Wright</h1>
-<p style="color:#3D3D3D; font-size:18px; margin-top:4px;">
-Content + Workflow Strategist
-</p>
+### Content + Workflow Strategist
 
-<p style="max-width:600px; color:#3D3D3D;">
-I build structured workflows, documentation, and content systems for solopreneurs and small teams. 
-My work blends technical organization (Notion, Dubsado, Google Workspace) with clear, human‑centered content strategy. 
+Hey there, I'm Cyn. I build structured workflows, documentation, and content systems for solopreneurs and small teams. My work blends technical organization (such as Notion, Dubsado, Google Workspace) with clear, human‑centered content strategy. 
+
 I also write and draw things — including a weekly comic called Bad Lasagna.
-</p>
-
-</div>
-
-<br>
 
 ---
 
-## <span style="color:#398378;">🛠️ Tools & Platforms I Work With</span>
+## Skills & Experience
+
+### Technical Documentation
+- Clear, structured documentation for workflows, onboarding, product features, and internal knowledge bases.
+
+### Information Architecture
+- Organizing repos, wikis, content systems, and digital knowledge structures for clarity and usability.
+
+### Workflow Automation (No‑Code)
+- Building automated systems using Notion, Dubsado, Google Workspace, Zapier, and Make.
+
+### Technical Project Management
+- Issue tracking, sprint planning, backlog organization, and cross‑functional workflow design.
+
+### UX Writing & Microcopy
+- Crafting clear, helpful interface text for onboarding flows, tooltips, and product experiences.
+
+### Markdown, YAML & JSON
+- Using lightweight technical formats for documentation, configuration, and structured content.
+
+## 🛠️ Tools & Platforms I Work With</span>
 
 <div>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
@@ -31,71 +41,10 @@ I also write and draw things — including a weekly comic called Bad Lasagna.
 
 ---
 
-## <span style="color:#398378;">🌿 Skills & Experience</span>
-
-<div style="display:flex; flex-wrap:wrap; gap:16px;">
-
-## <span style="color:#398378;">🧩 Additional Technical Skills</span>
-
-<div style="display:flex; flex-wrap:wrap; gap:16px;">
-
-<!-- Technical Documentation -->
-<div style="flex:1; min-width:260px; background:#FFF8F2; padding:16px; border-radius:10px; border:2px solid #398378;">
-<strong style="color:#398378;">Technical Documentation</strong><br>
-Clear, structured documentation for workflows, onboarding, product features, and internal knowledge bases.
-</div>
-
-<!-- Information Architecture -->
-<div style="flex:1; min-width:260px; background:#FFF8F2; padding:16px; border-radius:10px; border:2px solid #B19DD0;">
-<strong style="color:#398378;">Information Architecture</strong><br>
-Organizing repos, wikis, content systems, and digital knowledge structures for clarity and usability.
-</div>
-
-<!-- Workflow Automation -->
-<div style="flex:1; min-width:260px; background:#FFF8F2; padding:16px; border-radius:10px; border:2px solid #31C48D;">
-<strong style="color:#398378;">Workflow Automation (No‑Code)</strong><br>
-Building automated systems using Notion, Dubsado, Google Workspace, Zapier, and Make.
-</div>
-
-<!-- Technical Project Management -->
-<div style="flex:1; min-width:260px; background:#FFF8F2; padding:16px; border-radius:10px; border:2px solid #A5D8D8;">
-<strong style="color:#398378;">Technical Project Management</strong><br>
-Issue tracking, sprint planning, backlog organization, and cross‑functional workflow design.
-</div>
-
-<!-- UX Writing -->
-<div style="flex:1; min-width:260px; background:#FFF8F2; padding:16px; border-radius:10px; border:2px solid #FFD4D4;">
-<strong style="color:#398378;">UX Writing & Microcopy</strong><br>
-Crafting clear, helpful interface text for onboarding flows, tooltips, and product experiences.
-</div>
-
-<!-- Markdown / YAML / JSON -->
-<div style="flex:1; min-width:260px; background:#FFF8F2; padding:16px; border-radius:10px; border:2px solid #2F3C35;">
-<strong style="color:#398378;">Markdown, YAML & JSON</strong><br>
-Using lightweight technical formats for documentation, configuration, and structured content.
-</div>
-
-## <span style="color:#398378;">📁 Projects</span>
-
-- **Mini Systems Audit** — lightweight workflow review for solopreneurs  
-- **Cyn’s Creative Desk Blog** — creative + systems hub  
-- **Bad Lasagna** — weekly comic series  
-- **Writing Portfolio** — essays, articles, brand messaging work  
-- **Client Systems Builds** — Notion dashboards, Dubsado setups, Google Workspace organization  
-
-## <span style="color:#398378;">🌼 A Few Things I Love</span>
+## 😍 A Few Things I Love
 
 Traveling, reading, drawing things, cozy creative spaces, and helping people feel less overwhelmed by the digital parts of their business.
 
----
+## 👉🏽Let’s Connect!
 
-<div align="center">
-
-### <span style="color:#398378;">💬 Let’s Connect</span>
-
-If you’re building something creative and need clarity, structure, or a workflow that feels like a warm cup of tea — I’d love to collaborate.
-
-</div>
-
-</div>
-
+If you’re building something creative or technical and need clarity, structure, or documentation that supports your workflow, I’d love to collaborate.
