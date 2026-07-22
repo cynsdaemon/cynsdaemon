@@ -47,4 +47,4 @@ Traveling, reading, drawing things, cozy creative spaces, and helping people fee
 
 ## 👉🏽Let’s Connect!
 
-If you’re building something creative or technical and need clarity, structure, or documentation that supports your workflow, I’d love to collaborate.
+If you’re building something creative or technical and need clarity, structure, or documentation that supports your workflow, I’d love to collaborate. Feel free to reach out here or via [my contact page](https://heycynwrites.com/contact).
