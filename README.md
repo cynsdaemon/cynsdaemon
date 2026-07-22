@@ -35,10 +35,45 @@ I also write and draw things — including a weekly comic called Bad Lasagna.
 
 <div style="display:flex; flex-wrap:wrap; gap:16px;">
 
-<!-- Skill Card 1 -->
-<div style="flex:1; min-width:260px; background:#FFF8F2; padding:16px; border-radius:10px; border:2px solid #B19DD0;">
-<strong style="color:#398378;">Content Strategy</strong><br>
-Brand messaging, editorial planning, SEO‑aligned content, and storytelling for creative businesses.
+## <span style="color:#398378;">🧩 Additional Technical Skills</span>
+
+<div style="display:flex; flex-wrap:wrap; gap:16px;">
+
+<!-- Technical Documentation -->
+<div style="flex:1; min-width:260px; background:#FFF8F2; padding:16px; border-radius:10px; border:2px solid #398378;">
+<strong style="color:#398378;">Technical Documentation</strong><br>
+Clear, structured documentation for workflows, onboarding, product features, and internal knowledge bases.
 </div>
 
-<!-- Skill Card 2 -->
+<!-- Information Architecture -->
+<div style="flex:1; min-width:260px; background:#FFF8F2; padding:16px; border-radius:10px; border:2px solid #B19DD0;">
+<strong style="color:#398378;">Information Architecture</strong><br>
+Organizing repos, wikis, content systems, and digital knowledge structures for clarity and usability.
+</div>
+
+<!-- Workflow Automation -->
+<div style="flex:1; min-width:260px; background:#FFF8F2; padding:16px; border-radius:10px; border:2px solid #31C48D;">
+<strong style="color:#398378;">Workflow Automation (No‑Code)</strong><br>
+Building automated systems using Notion, Dubsado, Google Workspace, Zapier, and Make.
+</div>
+
+<!-- Technical Project Management -->
+<div style="flex:1; min-width:260px; background:#FFF8F2; padding:16px; border-radius:10px; border:2px solid #A5D8D8;">
+<strong style="color:#398378;">Technical Project Management</strong><br>
+Issue tracking, sprint planning, backlog organization, and cross‑functional workflow design.
+</div>
+
+<!-- UX Writing -->
+<div style="flex:1; min-width:260px; background:#FFF8F2; padding:16px; border-radius:10px; border:2px solid #FFD4D4;">
+<strong style="color:#398378;">UX Writing & Microcopy</strong><br>
+Crafting clear, helpful interface text for onboarding flows, tooltips, and product experiences.
+</div>
+
+<!-- Markdown / YAML / JSON -->
+<div style="flex:1; min-width:260px; background:#FFF8F2; padding:16px; border-radius:10px; border:2px solid #2F3C35;">
+<strong style="color:#398378;">Markdown, YAML & JSON</strong><br>
+Using lightweight technical formats for documentation, configuration, and structured content.
+</div>
+
+</div>
+
