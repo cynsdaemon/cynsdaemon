@@ -1,5 +1,3 @@
-## Hey there 👋
-
 <!-- HEADER BLOCK -->
 <div align="center" style="padding: 24px; background:#FFF8F2; border-radius: 12px; border: 3px solid #398378;">
 
@@ -22,58 +20,25 @@ I also write and draw things — including a weekly comic called Bad Lasagna.
 
 ## <span style="color:#398378;">🛠️ Tools & Platforms I Work With</span>
 
-<!-- BADGES -->
 <div>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Dubsado-398378?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Google%20Workspace-FFD4D4?style=for-the-badge&logo=google&logoColor=3D3D3D" />
 <img src="https://img.shields.io/badge/Hugo-B19DD0?style=for-the-badge&logo=hugo&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-3D3D3D?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 ---
 
-## <span style="color:#398378;">🌿 About Me</span>
+## <span style="color:#398378;">🌿 Skills & Experience</span>
 
-I’m a writer, systems builder, and cozy‑corner creative who loves helping solopreneurs reclaim their time, clarify their voice, and build workflows that support the work they actually want to be doing.
+<div style="display:flex; flex-wrap:wrap; gap:16px;">
 
-I enjoy traveling, reading, and learning to draw things — especially comics about cosmic bureaucracy and awkward emotional moments.
-
----
-
-## <span style="color:#398378;">📁 Projects</span>
-
-- **Mini Systems Audit** — lightweight workflow review for solopreneurs  
-- **Cyn’s Creative Desk Blog** — Hugo-powered creative + systems hub  
-- **Bad Lasagna** — weekly comic series  
-- **Writing Portfolio** — essays, articles, brand messaging work  
-- **Client Systems Builds** — Notion dashboards, Dubsado setups, Google Workspace organization  
-
----
-
-## <span style="color:#398378;">📝 Latest Blog Posts</span>
-
-<!-- AUTO-UPDATING BLOG SECTION -->
-<!-- This uses GitHub Actions to pull your Hugo RSS feed and update this list automatically. -->
-
-<!-- The list below will be overwritten by the Action -->
-<!-- You can leave placeholder items until the workflow runs -->
-
-- Loading latest posts…
-
----
-
-## <span style="color:#398378;">🌼 A Few Things I Love</span>
-
-Traveling, reading, drawing things, cozy creative spaces, and helping people feel less overwhelmed by the digital parts of their business.
-
----
-
-<div align="center">
-
-### <span style="color:#398378;">💬 Let’s Connect</span>
-
-If you’re building something creative and need clarity, structure, or a workflow that feels like a warm cup of tea — I’d love to collaborate.
-
+<!-- Skill Card 1 -->
+<div style="flex:1; min-width:260px; background:#FFF8F2; padding:16px; border-radius:10px; border:2px solid #B19DD0;">
+<strong style="color:#398378;">Content Strategy</strong><br>
+Brand messaging, editorial planning, SEO‑aligned content, and storytelling for creative businesses.
 </div>
 
+<!-- Skill Card 2 -->
