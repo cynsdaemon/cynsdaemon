@@ -75,5 +75,27 @@ Crafting clear, helpful interface text for onboarding flows, tooltips, and produ
 Using lightweight technical formats for documentation, configuration, and structured content.
 </div>
 
+## <span style="color:#398378;">📁 Projects</span>
+
+- **Mini Systems Audit** — lightweight workflow review for solopreneurs  
+- **Cyn’s Creative Desk Blog** — creative + systems hub  
+- **Bad Lasagna** — weekly comic series  
+- **Writing Portfolio** — essays, articles, brand messaging work  
+- **Client Systems Builds** — Notion dashboards, Dubsado setups, Google Workspace organization  
+
+## <span style="color:#398378;">🌼 A Few Things I Love</span>
+
+Traveling, reading, drawing things, cozy creative spaces, and helping people feel less overwhelmed by the digital parts of their business.
+
+---
+
+<div align="center">
+
+### <span style="color:#398378;">💬 Let’s Connect</span>
+
+If you’re building something creative and need clarity, structure, or a workflow that feels like a warm cup of tea — I’d love to collaborate.
+
+</div>
+
 </div>
 
