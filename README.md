@@ -16,12 +16,6 @@ I also write and draw things — including a weekly comic called Bad Lasagna.
 ### Information Architecture
 - Organizing repos, wikis, content systems, and digital knowledge structures for clarity and usability.
 
-### Workflow Automation (No‑Code)
-- Building automated systems using Notion, Dubsado, Google Workspace, Zapier, and Make.
-
-### Technical Project Management
-- Issue tracking, sprint planning, backlog organization, and cross‑functional workflow design.
-
 ### UX Writing & Microcopy
 - Crafting clear, helpful interface text for onboarding flows, tooltips, and product experiences.
 
