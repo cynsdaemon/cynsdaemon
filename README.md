@@ -4,9 +4,7 @@
 
 ### 👋🏽 *Hi, I'm Cyn.* 
 
-I'm a writer and assistant who specializes in creating clear documentation, organized workflows, and practical content for technical teams.
-
-I work with developers, indie hackers, and small product teams to make their repositories easier to use, with straightforward docs, onboarding guides, microcopy, and simple content systems. 
+I'm a writer and assistant who specializes in creating clear documentation, organized workflows, and practical content for technical teams. I work with developers, indie hackers, and small product teams to make their repositories easier to use, with straightforward docs, onboarding guides, microcopy, and simple content systems. 
 
 If your project could benefit from better documentation or a more organized content structure, [let's connect](https://www.heycywnrites.com/contact).
 
