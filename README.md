@@ -6,14 +6,14 @@
 
 I'm a writer and assistant who specializes in creating clear documentation, organized workflows, and practical content for technical teams. I work with developers, indie hackers, and small product teams to make their repositories easier to use, with straightforward docs, onboarding guides, microcopy, and simple content systems. 
 
-If your project could benefit from better documentation or a more organized content structure, [let's connect](https://www.heycywnrites.com/contact).
+**If your project could benefit from better documentation or a more organized content structure, [let's connect](https://www.heycywnrites.com/contact).**
 
 ---
 
 
 ## Skills & Experience
 
-Click a folder to view related portfolio work.
+**Note:** *Click or tap on a folder to view related portfolio work.* ↗️
 
 <a href="https://www.heycynwrites.com/portfolio">
     <img width="520" src="./assets/technical-documentation.svg" alt="Technical Documentation" />
