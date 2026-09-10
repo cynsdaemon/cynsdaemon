@@ -12,26 +12,13 @@ If your project could benefit from better documentation or a more organized cont
 
 ---
 
-
 ## Skills & Experience
 
-<table>
-  <tr>
-    <td><img src="./assets/technical-documentation.svg" alt="Technical Documentation"></td>
-  </tr>
-</table>
+![Technical Documentation](./assets/technical-documentation.svg)
 
-<table>
-  <tr>
-    <td><img src="./assets/ux-writing.svg" alt="UX Writing"></td>
-  </tr>
-</table>
+![UX Writing](./assets/ux-writing.svg)
 
-<table>
-  <tr>
-    <td><img src="./assets/markdown-yaml-json.svg" alt="Markdown, YAML and JSON"></td>
-  </tr>
-</table>
+![Markdown, YAML and JSON](./assets/markdown-yaml-json.svg)
 
 ---
 
