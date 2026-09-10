@@ -12,72 +12,48 @@ If your project could benefit from better documentation or a more organized cont
 
 ---
 
+
 <!-- Box Styles -->
 <style>
-    /* =========================================================
-    MANILA FOLDER SKILL BOXES
-    ========================================================= */
+.folder-box {
+  background: #f7f2e7; /* soft manila */
+  border: 1px solid #d8c9a7;
+  border-radius: 6px;
+  padding: 1.5rem 1rem 1rem;
+  margin: 1.5rem 0;
+  position: relative;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.08);
+}
 
-    .skill-folder {
-        position: relative;
-        background: var(--sketchbook-linen);
-        border: 1px solid var(--cafe-rose);
-        border-radius: 0 8px 8px 8px;
-        padding: 1.5rem 1.5rem 1.25rem;
-        margin: 2rem 0;
-        box-shadow: var(--card-shadow);
-        transform: rotate(-0.35deg);
-        transition: background 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
-    }
-
-    /* Folder tab */
-    .skill-folder::before {
-        content: attr(data-title);
-        position: absolute;
-        top: -0.7rem;
-        left: -1px;
-        background: color-mix(in srgb, var(--golden-guava) 45%, var(--sketchbook-linen));
-        border: 1px solid color-mix(in srgb, var(--golden-guava) 55%, var(--cafe-rose));
-        border-bottom: 0;
-        border-radius: 6px 6px 0 0;
-        padding: 0.4rem 0.9rem;
-        font-family: 'IBM Plex Sans', sans-serif;
-        font-size: 0.85rem;
-        font-weight: 700;
-        letter-spacing: 0.05em;
-        color: var(--charcoal);
-    }
-
-    /* Hover effect */
-    .skill-folder:hover {
-        background: color-mix(in srgb, var(--golden-guava) 28%, var(--sketchbook-linen));
-        border-color: var(--turquoise);
-        box-shadow: var(--card-shadow-hover);
-        transform: translateY(-3px) rotate(0deg);
-    }
-
-    .skill-folder p {
-        margin: 0;
-        font-family: 'Lora', Georgia, serif;
-        font-size: 1.05rem;
-        line-height: 1.7;
-        color: var(--charcoal);
-    }
-
+/* Folder tab */
+.folder-box::before {
+  content: attr(data-title);
+  position: absolute;
+  top: -12px;
+  left: 12px;
+  background: #f0e6d2;
+  padding: 0.35rem 0.75rem;
+  border: 1px solid #d8c9a7;
+  border-bottom: none;
+  border-radius: 4px 4px 0 0;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #3D3D3D;
+}
 </style>
+
 
 ## Skills & Experience
 
-<div class="skill-folder" data-title="Technical Documentation">
+<div class="folder-box" data-title="Technical Documentation">
   <p>Clear, structured documentation for workflows, onboarding, product features, and internal knowledge bases.</p>
 </div>
 
-<div class="skill-folder" data-title="UX Writing">
+<div class="folder-box" data-title="UX Writing">
   <p>Crafting clear, helpful interface text for onboarding flows, tooltips, and product experiences.</p>
 </div>
 
-
-<div class="skill-folder" data-title="Markdown, YAML & JSON">
+<div class="folder-box" data-title="Markdown, YAML & JSON">
   <p>Using lightweight technical formats for documentation, configuration, and structured content.</p>
 </div>
 
