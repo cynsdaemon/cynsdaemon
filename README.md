@@ -15,11 +15,11 @@ If your project could benefit from better documentation or a more organized cont
 
 ## Skills & Experience
 
-![Technical Documentation](./assets/technical-documentation.png)
+![Technical Documentation](./assets/technical-documentation.svg)
 
-![UX Writing](./assets/ux-writing.png)
+![UX Writing](./assets/ux-writing.svg)
 
-![Markdown, YAML and JSON](./assets/markdown-yaml-json.png)
+![Markdown, YAML and JSON](./assets/markdown-yaml-json.svg)
 
 ---
 
