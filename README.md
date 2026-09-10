@@ -13,11 +13,11 @@ If your project could benefit from better documentation or a more organized cont
 
 ## Skills & Experience
 
-<img align="left" width="250" src="./assets/technical-documentation.svg" alt="Technical Documentation" />
-<img align="left" width="250" src="./assets/ux-writing.svg" alt="UX Writing" />
-<img align="left" width="250" src="./assets/markdown-yaml-json.svg" alt="Markdown, YAML and JSON" />
+[![Technical Documentation](./assets/technical-documentation.svg)](https://www.heycynwrites.com/portfolio)
 
-<br clear="left" />
+[![UX Writing](./assets/ux-writing.svg)](https://www.heycynwrites.com/portfolio)
+
+[![Markdown, YAML and JSON](./assets/markdown-yaml-json.svg)](https://www.heycynwrites.com/portfolio)
 
 ---
 
