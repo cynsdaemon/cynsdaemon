@@ -44,4 +44,4 @@ I'm a writer and assistant who specializes in creating clear documentation, orga
 Traveling, reading, drawing things, cozy creative spaces, and helping people feel less overwhelmed by the digital parts of their business.
 
 ### 👉🏽 Get in touch!
-Feel free to reach out here on Github or via my [contact page](https://www.heycynwrites.com/contact).
+Feel free to reach out via my [contact page](https://www.heycynwrites.com/contact).
